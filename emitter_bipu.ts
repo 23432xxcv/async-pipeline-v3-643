@@ -1,0 +1,1 @@
+const service_bipu = <T>(args: T): T => { return args; };
